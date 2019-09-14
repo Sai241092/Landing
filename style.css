@@ -1,0 +1,58 @@
+body {
+	background-color: rgb(245, 245, 245);
+	color:black;
+	font-size: 40px;
+	font-family: 'Abril Fatface', cursive; 
+	background-image: url(https://images.unsplash.com/photo-1533387520709-752d83de3630?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#header{
+	text-align: center;
+	font-size: 100px;
+	margin: 20px;
+}
+
+.images{
+	text-align: center;
+	border: dashed;
+	background-color: lightgrey;
+	width: 300px;
+    margin: 40px;
+    padding: 0;
+}
+
+.img{
+	width:100px;
+}
+
+footer{
+	background: black;
+	color: white;
+	font-size: 20px;
+}
+
+footer p{
+	color:white;
+	font-size: 15px;
+}
+
+.social{
+	color:white;
+	font-size: 40px;
+	text-align: center;
+
+}
+
+p{
+	font-family: helvatica;
+	color: green;
+	font-size: 15px;
+}
+
+h1{
+	font-family: helvatica;
+	color:green;
+	font-size: 60px;
+}
